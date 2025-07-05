@@ -1,3 +1,13 @@
+/*
+File: script.js
+GUI Assignment: This javascript file contains all functionality for tile selection, drag-and-drop gameplay score calculation, and board interactions
+Kevin Kuang, UMass Lowell Computer Science, kevin_kuang@student.uml.edu
+Copyright (c) 2025 by Kuang. All rights reserved. May be freely copied or
+excerpted for educational purposes with credit to the author.
+updated by KK on July 2nd 2025 at 10:21 PM
+*/
+
+
 let ScrabbleTiles = {};
 let tileBag = [];
 let currentWord = "";

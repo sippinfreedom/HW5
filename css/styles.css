@@ -1,4 +1,11 @@
-
+/*
+File: styles.css
+GUI Assignment: This CSS file contains all layout and style rules for the game's UI, including tile appearance, board layout, and typography.
+Kevin Kuang, UMass Lowell Computer Science, kevin_kuang@student.uml.edu
+Copyright (c) 2025 by Kuang. All rights reserved. May be freely copied or
+excerpted for educational purposes with credit to the author.
+updated by KK on July 2nd 2025 at 10:21 PM
+*/
 body{
   font-family: Arial, sans-serif;
   padding: 20px;
